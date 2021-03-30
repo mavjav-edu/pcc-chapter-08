@@ -79,4 +79,4 @@ Import the function into your main program file, and call the function using eac
 
 &nbsp; | &nbsp; | &nbsp; | &nbsp;
 ----|----|----|----
-[&#10094; Prev](../pcc-chapter-07)| &nbsp; | &nbsp; | &nbsp;[Next &#10095;](../pcc-chapter-09)
+[&#10094; Prev](../../../pcc-chapter-07)| &nbsp; | &nbsp; | &nbsp;[Next &#10095;](../../../pcc-chapter-09)
