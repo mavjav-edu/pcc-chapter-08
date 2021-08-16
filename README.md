@@ -10,7 +10,7 @@ the function dedicated to handling that task, and the call tells Python
 to run the code inside the function. You’ll find that using functions
 makes your programs easier to write, read, test, and fix.
 
-## TRY IT YOURSELF #1
+## TRY IT YOURSELF Ⓐ
 
 <span id="ch8exe1"></span>**8-1. Message:** Write a function called
 `display_message()` that prints one sentence telling everyone what you
@@ -23,7 +23,7 @@ function should print a message, such as
 `One of my favorite books is Alice in Wonderland`. Call the function,
 making sure to include a book title as an argument in the function call.
 
-## TRY IT YOURSELF #2
+## TRY IT YOURSELF Ⓑ
 
 <span id="ch8exe3"></span>**8-3. T-Shirt:** Write a function called
 `make_shirt()` that accepts a size and the text of a message that should
@@ -46,7 +46,7 @@ function should print a simple sentence, such as
 value. Call your function for three different cities, at least one of
 which is not in the default country.
 
-## TRY IT YOURSELF #3
+## TRY IT YOURSELF Ⓒ
 
 <span id="ch8exe6"></span>**8-6. City Names:** Write a function called
 `city_country()` that takes in the name of a city and its country. The
@@ -80,7 +80,7 @@ information, call `make_album()` with the user&rsquo;s input and print the
 dictionary that&rsquo;s created. Be sure to include a quit value in the
 `while` loop.
 
-## TRY IT YOURSELF #4
+## TRY IT YOURSELF Ⓓ
 
 <span id="ch8exe9"></span>**8-9. Magicians:** Make a list of magician&rsquo;s
 names. Pass the list to a function called `show_magicians()`, which
@@ -103,7 +103,7 @@ to each magician&rsquo;s name.
 
 
 <span id="page_154"></span>
-## TRY IT YOURSELF #5
+## TRY IT YOURSELF Ⓔ
 
 <span id="ch8exe12"></span>**8-12. Sandwiches:** Write a function that
 accepts a list of items a person wants on a sandwich. The function
@@ -134,7 +134,7 @@ was stored correctly.
 
 
 <span id="page_159"></span>
-## TRY IT YOURSELF #6
+## TRY IT YOURSELF Ⓕ
 
 <span id="ch8exe15"></span>**8-15. Printing Models:** Put the functions
 for the example *printing_models.py* in a separate file called
