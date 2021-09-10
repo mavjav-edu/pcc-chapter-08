@@ -113,7 +113,7 @@ being ordered. Call the function three times, using a different number
 of arguments each time.
 
 <span id="ch8exe13"></span>**8-13. User Profile:** Start with a copy of
-*user_profile.py* from [page 153](../../../pcc_2e/tree/master/chapter_08/README.md#page_153). Build a profile
+*user_profile.py* from [page 153](#page_153). Build a profile
 of yourself by calling `build_profile()`, using your first and last
 names and three other key-value pairs that describe you.
 
