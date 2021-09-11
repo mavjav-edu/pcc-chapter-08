@@ -93,7 +93,7 @@ phrase *the Great* to each magician&rsquo;s name. Call `show_magicians()` to
 see that the list has actually been modified.
 
 <span id="ch8exe11"></span>**8-11. Unchanged Magicians:** Start with
-your work from [Exercise 8-10](../../../pcc_2e/tree/master/chapter_08/README.md#ch8exe10). Call the function
+your work from [Exercise 8-10](#ch8exe10). Call the function
 `make_great()` with a copy of the list of magicians&rsquo; names. Because the
 original list will be unchanged, return the new list and store it in a
 separate list. Call `show_magicians()` with each list to show that you
