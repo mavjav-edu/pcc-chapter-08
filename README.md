@@ -74,7 +74,7 @@ least one new function call that includes the number of tracks on an
 album.
 
 <span id="ch8exe8"></span>**8-8. User Albums:** Start with your program
-from [Exercise 8-7](../../../pcc_2e/tree/master/chapter_08/README.md#ch8exe7). Write a `while` loop that allows
+from [Exercise 8-7](#ch8exe7). Write a `while` loop that allows
 users to enter an album&rsquo;s artist and title. Once you have that
 information, call `make_album()` with the user&rsquo;s input and print the
 dictionary that&rsquo;s created. Be sure to include a quit value in the
@@ -87,7 +87,7 @@ names. Pass the list to a function called `show_magicians()`, which
 prints the name of each magician in the list.
 
 <span id="ch8exe10"></span>**8-10. Great Magicians:** Start with a copy
-of your program from [Exercise 8-9](../../../pcc_2e/tree/master/chapter_08/README.md#ch8exe9). Write a function
+of your program from [Exercise 8-9](#ch8exe9). Write a function
 called `make_great()` that modifies the list of magicians by adding the
 phrase *the Great* to each magician&rsquo;s name. Call `show_magicians()` to
 see that the list has actually been modified.
