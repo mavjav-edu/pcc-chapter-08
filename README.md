@@ -14,13 +14,13 @@ the function dedicated to handling that task, and the call tells Python
 to run the code inside the function. You’ll find that using functions
 makes your programs easier to write, read, test, and fix.
 
+Every function has a *signature*: the topmost part that defines the function’s name, parameters, and return value. The *body* is the part that contains the code that is executed when the function is called.
+
+![Parts of the function can be identified using the terms 'signature', 'definition', 'body', 'calls'](pizza_function_use.svg)
+
 The [`pizza.py`](pizza.py) file contains the following code (without the `__name__ = "__main__"` block):
 
 ![A function to print out a pizza based on input parameters](pizza.svg)
-
-Every function has distinct parts that can be labeled 'signature' and 'body'. The signature is the part that defines the function’s name, parameters, and return value. The body is the part that contains the code that is executed when the function is called.
-
-![Parts of the function can be identified using the terms 'signature', 'definition', 'body', 'calls'](pizza_function_use.svg)
 
 In VS Code, if you float your mouse over the function name, you’ll see the signature.
 
