@@ -49,6 +49,15 @@ summarizing the size of the shirt and the message printed on it.
 Call the function once using positional arguments to make a shirt. Call
 the function a second time using keyword arguments.
 
+```
+  __   __  
+ /  `-'  \ 
+/_| R   |_\
+  |  E  |  
+  |   M |  
+  |_____|
+```
+
 <span id="ch8exe4"></span>**8-4. Large Shirts:** Modify the
 `make_shirt()` function so that shirts are large by default with a
 message that reads *I love Python*. Make a large shirt and a medium
@@ -127,6 +136,8 @@ should have one parameter that collects as many items as the function
 call provides, and it should print a summary of the sandwich that is
 being ordered. Call the function three times, using a different number
 of arguments each time.
+
+![Sandwich ASCII Art](sandwich.svg)
 
 <span id="ch8exe13"></span>**8-13. User Profile:** Start with a copy of
 *user_profile.py* from [page 153](#page_153). Build a profile
